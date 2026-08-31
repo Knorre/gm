@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "HOOK",
+      "hasCanvas": false,
+      "bodyTextLen": 2199,
+      "bodyTextHash": "cd93ead0bddf8d8d6ed1df0c5135279dd17b1a72b9b63f4d7cb519deda779854",
+      "bodyTextPrefix": "HOOK PONS V2 REPLICA Så funkar det Trenches Min bot Hooken IDLE ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "HOOK",
+      "hasCanvas": false,
+      "bodyTextLen": 2173,
+      "bodyTextHash": "a05b659cc293680960dd8c991dd3b7cfe61c1cbac50ee1ca1030faa2983ba320",
+      "bodyTextPrefix": "HOOK 0 ETH ROBINHOOD CHAIN · PONS V2 Det är inte en robot som ha",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
